@@ -6,3 +6,4 @@ console.log("conflict test");
 // lets add this log only to branch b2 
 console.log("b2 branch string"); 
 console.log("this is new log"); 
+// add another log for commit 
